@@ -1,0 +1,37 @@
+/*
+Theme Name: STINGER PLUS2 Child
+Template: stingerplus2
+Version: 20170621
+*/
+
+/*カテゴリID別に色を指定できます
+例）IDが7の場合
+.catname.st-catid7 {
+	background:#ff0000;
+	color:#fff;
+}
+*/
+
+/*media Queries タブレットサイズ（960px以下）
+----------------------------------------------------*/
+@media only screen and (max-width: 960px) {
+
+
+/*-- ここまで --*/
+}
+
+/*media Queries タブレットサイズ（600px以上）
+----------------------------------------------------*/
+@media only screen and (min-width: 600px) {
+
+
+/*-- ここまで --*/
+}
+
+/*media Queries PCサイズ（960px以上）
+----------------------------------------------------*/
+@media print, screen and (min-width: 960px) {
+
+
+/*-- ここまで --*/
+}
